@@ -22,7 +22,7 @@ amazing.tafelaufschrieb
 	<li> KohlrABI - wir machen uns vom Acker
    </ul>
  
- <h2>Sprücheliste <code>ul</code> mit Darstellungstyp <code>circle</code></h2>
+ <h2>Sprücheliste <code>ul</code> mit Darstellungstyp <code>square</code></h2>
  <ul class="second">
 	<li>WasABI - scharf im Abgang
 	<li> ABI - Amtlich Bestätigte Inkompetenz
